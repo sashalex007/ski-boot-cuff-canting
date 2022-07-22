@@ -2,7 +2,7 @@
 
 ![Screenshot](inserts.png)
 
-### Custom cuff inserts and cams for more offset and adjustability
+### Custom cuff inserts/cams for more offset and adjustability
 
 Where files are numbered, indicates offset in mm. Non-numbered files are set to the max offset that the OEM design can tolerate. The Head design using the smaller Lange t-nut is experimental. The dalbello_kids design is for the JR boots (must drill out OEM rivet and provide an OEM Head t-nut and bolt). Lange and Fischer designs are obsolete as of 2022; working with older models. 
 
